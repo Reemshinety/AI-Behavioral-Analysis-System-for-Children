@@ -109,10 +109,13 @@ The AI Behavioral Analysis System provides a robust, scalable, and privacy-consc
     *   Ensure the Flutter app's `baseUrl` in `ai_service.dart` points to the correct server IP.
 
 #### B. Final Code Repository Links
-*   *(Insert actual GitHub/GitLab links to the Python AI Engine, Node.js Backend, and Flutter App here)*
+*   *https://github.com/Reemshinety/AI-Behavioral-Analysis-System-for-Children*
 
 #### C. System Screenshots
-*   *(Attach screenshots of the Flutter game interface, the parent dashboard showing session reports, and the API JSON responses here)*
+*   *<img width="1589" height="890" alt="Screenshot 2026-04-29 194309" src="https://github.com/user-attachments/assets/f2cc0ff6-a186-4982-847f-3f5cd8889333" />
+<img width="1620" height="941" alt="Screenshot 2026-04-29 194442" src="https://github.com/user-attachments/assets/c85e8ca8-07e9-4807-b133-4c1e94352c54" />
+<img width="1402" height="970" alt="Screenshot 2026-04-29 194524" src="https://github.com/user-attachments/assets/002cdfc7-ddf0-473d-a1b3-3304ea884a5f" />
+<img width="1540" height="914" alt="Screenshot 2026-04-29 194556" src="https://github.com/user-attachments/assets/5445d0fe-bc2d-4fc9-8816-1610d1f66563" />
+<img width="1446" height="971" alt="Screenshot 2026-04-29 194233" src="https://github.com/user-attachments/assets/39c32800-5b0e-4837-9b6b-18a3d8570e2b" />
+*
 
-#### D. Explanatory Video
-*   *(Provide a link to a YouTube or Google Drive video demonstrating the real-time tracking and the final session report generation)*
